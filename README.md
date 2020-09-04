@@ -2,7 +2,7 @@
 
 ## I'm a Filipino, Developer, Cloud Practioneer, and Microsoft Certified
 
-- 🔭 I’m currently working on making a JS Project as start! 😃
+- 🔭 I’m currently working on making a JS Project as a start! 😃
 - 🌱 I’m currently learning DevOps 😊
 - 🥅 2020 Goals: Azure Certified and Add more projects to my github account
 - ⚡ Fun fact: I love Anime and Japanese Culture
