@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank
 
-## I'm a Filipino, Developer, Cloud Practioneer, and Microsoft Certified
+## I'm a Filipino, Developer, Cloud Practitioner, and Microsoft Certified
 
 - 🔭 I’m currently working on making a JS Project as a start! 😃
 - 🌱 I’m currently learning DevOps 😊
